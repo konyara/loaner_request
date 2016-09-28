@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-09-27 05:46:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0fa313a674022200e04a1b7aaab6bb7d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_loaner_reque_loaner_request_user</sys_name>
